@@ -250,6 +250,19 @@
 
 }
 
+/*******FORMULARIO*******/
+
+.form-container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .btn {
+    background-color: rgb(180, 177, 216);
+    padding: 1rem;
+    margin: auto;
+}
+
 /*******FOOTER*******/
 
 .footer {
